@@ -10,3 +10,4 @@ rootProject.name = "ComposeStudy"
 include ':helloandroid'
 include ':text'
 include ':textfield'
+include ':list'
